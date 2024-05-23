@@ -1,0 +1,24 @@
+---
+title: Main menu
+items:
+- title: Agenda
+  target: "/en/agenda/"
+  kind: page
+  children: []
+- title: Projects
+  target: "/en/projects/"
+  kind: page
+  children: []
+- title: Diplomas
+  target: "/en/diplomas/"
+  kind: page
+  children: []
+- title: Programs
+  target: "/en/programs/"
+  kind: page
+  children: []
+- title: Team
+  target: "/en/team/"
+  kind: page
+  children: []
+
