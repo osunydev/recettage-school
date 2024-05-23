@@ -13,12 +13,8 @@ fr:
     events_categories: /agenda/:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
-    diplomas: /diplomes/:slug/
-    programs: /formations/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/:slug/
-    researchers: /equipe/:slug/publications/
-    teachers: /equipe/:slug/programs/
   taxonomies:
     administrator: administrators
     author: authors
@@ -45,12 +41,8 @@ en:
     events_categories: /agenda/:slug/
     projects: /projects/:year-:slug/
     projects_categories: /projects/:slug/
-    diplomas: /diplomas/:slug/
-    programs: /programs/:slug/
     persons: /team/:slug/
     persons_categories: /team/:slug/
-    researchers: /team/:slug/publications/
-    teachers: /team/:slug/programs/
   taxonomies:
     administrator: administrators
     author: authors
