@@ -16,7 +16,7 @@ fr:
     diplomas: /diplomes/:slug/
     programs: /formations/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
     researchers: /equipe/:slug/publications/
     teachers: /equipe/:slug/programs/
   taxonomies:
@@ -48,7 +48,7 @@ en:
     diplomas: /diplomas/:slug/
     programs: /programs/:slug/
     persons: /team/:slug/
-    persons_categories: /team/:slug/
+    persons_categories: /team/categories/:slug/
     researchers: /team/:slug/publications/
     teachers: /team/:slug/programs/
   taxonomies:
