@@ -5,7 +5,7 @@ fr:
     Recettage School
   contentDir: content/fr
   languageCode: fr
-  languageName: French
+  languageName: Français
   params:
     social:
   permalinks:
