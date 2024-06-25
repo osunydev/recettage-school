@@ -6,18 +6,5 @@ zipcode: "33150"
 city: "Cenon"
 country: "France"
 phone: ""
-administrators:
-  - "admin-english"
-  - "admin-english-2"
-administrators_description:
-  "admin-english": >-
-    Secrétaires
-  "admin-english-2": >-
-    Secrétaires
-roles:
-  - title: >-
-      Secrétaires
-    persons:
-      - "admin-english"
-      - "admin-english-2"
+roles: []
 ---
