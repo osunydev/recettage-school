@@ -9,20 +9,18 @@ fr:
   params:
     social:
   permalinks:
-    locations: /campus/:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
-    diplomas: /diplomes/:slug/
-    programs: /formations/:slug/
+    papers: /papiers/:year-:month-:day-:slug/
+    volumes: /volumes/:year-:slug/
     publications: /publications/:year-:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
     researchers: /equipe/:slug/publications/
-    teachers: /equipe/:slug/programs/
   taxonomies:
     administrator: administrators
     author: authors
@@ -45,20 +43,18 @@ en:
   params:
     social:
   permalinks:
-    locations: /campus/:slug/
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
     projects: /projects/:year-:slug/
     projects_categories: /projects/:slug/
     posts: /posts/:year-:month-:day-:slug/
     posts_categories: /posts/:slug/
-    diplomas: /diplomas/:slug/
-    programs: /programs/:slug/
+    papers: /papers/:year-:month-:day-:slug/
+    volumes: /volumes/:year-:slug/
     publications: /publications/:year-:slug/
     persons: /team/:slug/
     persons_categories: /team/categories/:slug/
     researchers: /team/:slug/publications/
-    teachers: /team/:slug/programs/
   taxonomies:
     administrator: administrators
     author: authors
