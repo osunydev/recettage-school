@@ -5,44 +5,55 @@ items:
   target: "/en/posts/"
   kind: page
   children: []
+  file: content/en/posts/_index.html
 - title: Agenda
   target: "/en/agenda/"
   kind: page
   children: []
+  file: content/en/events/_index.html
 - title: Projects
   target: "/en/projects/"
   kind: page
   children: []
+  file: content/en/projects/_index.html
 - title: Team
   target: "/en/team/"
   kind: page
   children: []
+  file: content/en/persons/_index.html
 - title: Organizations
   target: "/en/organizations/"
   kind: page
   children: []
+  file: content/en/organizations/_index.html
 - title: Diplomas
   target: "/en/diplomas/"
   kind: page
   children: []
+  file: content/en/diplomas/_index.html
 - title: Programs
   target: "/en/programs/"
   kind: page
   children: []
+  file: content/en/programs/_index.html
 - title: Campus
   target: "/en/campus/"
   kind: page
   children: []
+  file: content/en/locations/_index.html
 - title: Volumes
   target: "/en/volumes/"
   kind: page
   children: []
+  file: content/en/volumes/_index.html
 - title: Papers
   target: "/en/papers/"
   kind: page
   children: []
+  file: content/en/papers/_index.html
 - title: HAL publications
   target: "/en/publications/"
   kind: page
   children: []
+  file: content/en/publications/_index.html
 
