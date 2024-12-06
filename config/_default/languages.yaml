@@ -7,7 +7,17 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
+    contact_details:
+
+      phone_numbers:
+
+      emails:
+
+      websites:
+
+      social_networks:
+
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
@@ -41,7 +51,17 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
+    contact_details:
+
+      phone_numbers:
+
+      emails:
+
+      websites:
+
+      social_networks:
+
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
