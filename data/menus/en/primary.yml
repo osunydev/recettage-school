@@ -4,66 +4,77 @@ items:
 - title: Posts
   target: "/en/posts/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Agenda
   target: "/en/agenda/"
   kind: page
+  new_tab: false
   children: []
   path: "/events"
   file: content/en/events/_index.html
 - title: Projects
   target: "/en/projects/"
   kind: page
+  new_tab: false
   children: []
   path: "/projects"
   file: content/en/projects/_index.html
 - title: Team
   target: "/en/team/"
   kind: page
+  new_tab: false
   children: []
   path: "/persons"
   file: content/en/persons/_index.html
 - title: Organizations
   target: "/en/organizations/"
   kind: page
+  new_tab: false
   children: []
   path: "/organizations"
   file: content/en/organizations/_index.html
 - title: Diplomas
   target: "/en/diplomas/"
   kind: page
+  new_tab: false
   children: []
   path: "/diplomas"
   file: content/en/diplomas/_index.html
 - title: Programs
   target: "/en/programs/"
   kind: page
+  new_tab: false
   children: []
   path: "/programs"
   file: content/en/programs/_index.html
 - title: Campus
   target: "/en/campus/"
   kind: page
+  new_tab: false
   children: []
   path: "/locations"
   file: content/en/locations/_index.html
 - title: Volumes
   target: "/en/volumes/"
   kind: page
+  new_tab: false
   children: []
   path: "/volumes"
   file: content/en/volumes/_index.html
 - title: Papers
   target: "/en/papers/"
   kind: page
+  new_tab: false
   children: []
   path: "/papers"
   file: content/en/papers/_index.html
 - title: HAL publications
   target: "/en/publications/"
   kind: page
+  new_tab: false
   children: []
   path: "/publications"
   file: content/en/publications/_index.html
