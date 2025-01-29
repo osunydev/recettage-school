@@ -33,7 +33,6 @@ fr:
     pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
-    programs_category: programs_categories
     projects_category: projects_categories
     researcher: researchers
     teacher: teachers
@@ -71,7 +70,6 @@ en:
     pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
-    programs_category: programs_categories
     projects_category: projects_categories
     researcher: researchers
     teacher: teachers
