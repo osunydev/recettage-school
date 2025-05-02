@@ -1,0 +1,51 @@
+---
+name: "Ecole de test"
+address: >-
+  5 Rue Frédéric Joliot Curie
+zipcode: "33150"
+city: "Cenon"
+country: "France"
+phone: "1111111111"
+url: "https://recettage.demo.osuny.site/"
+contact_details:
+  postal_address:
+    data:
+      address_name: >-
+        
+      address: >-
+        5 Rue Frédéric Joliot Curie
+      address_additional: >-
+        
+      zipcode: >-
+        33150
+      city: >-
+        Cenon
+      country:
+        name: >-
+          France
+        alpha2: >-
+          FR
+        alpha3: >-
+          FRA
+    geolocation:
+      latitude: 
+      longitude: 
+    text: >-
+      5 Rue Frédéric Joliot Curie 33150 Cenon FRANCE
+    html: >-
+      <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <span itemprop="streetAddress">5 Rue Frédéric Joliot Curie</span> <span itemprop="postalCode">33150</span> <span itemprop="addressLocality">Cenon</span> <span itemprop="addressCountry">FRANCE</span></address>
+  phone_numbers:
+    phone:
+      label: >-
+        1111111111
+      value: >-
+        tel:1111111111
+  websites:
+    website:
+      label: >-
+        recettage.demo.osuny.site/
+      value: >-
+        https://recettage.demo.osuny.site/
+
+roles: []
+---

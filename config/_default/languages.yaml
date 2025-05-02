@@ -11,6 +11,7 @@ fr:
     contact_details:
 
   permalinks:
+    locations: /campus/:slug/
     events: /agenda/:year/:slug/
     exhibitions: /expositions/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
@@ -19,12 +20,14 @@ fr:
     projects_categories: /projets/:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
-    papers: /papiers/:year-:month-:day-:slug/
-    volumes: /volumes/:year-:slug/
+    diplomas: /diplomes/:slug/
+    programs_categories: /formations/categories/:slug/
+    programs: /formations/:slug/
     publications: /publications/:year-:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
     researchers: /equipe/:slug/publications/
+    teachers: /equipe/:slug/programs/
   taxonomies:
     administrator: administrators
     author: authors
@@ -51,6 +54,7 @@ en:
     contact_details:
 
   permalinks:
+    locations: /campus/:slug/
     events: /agenda/:year/:slug/
     exhibitions: /expositions/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
@@ -59,12 +63,14 @@ en:
     projects_categories: /projects/:slug/
     posts: /posts/:year-:month-:day-:slug/
     posts_categories: /posts/:slug/
-    papers: /papers/:year-:month-:day-:slug/
-    volumes: /volumes/:year-:slug/
+    diplomas: /diplomas/:slug/
+    programs_categories: /programs/categories/:slug/
+    programs: /programs/:slug/
     publications: /publications/:year-:slug/
     persons: /team/:slug/
     persons_categories: /team/categories/:slug/
     researchers: /team/:slug/publications/
+    teachers: /team/:slug/programs/
   taxonomies:
     administrator: administrators
     author: authors
