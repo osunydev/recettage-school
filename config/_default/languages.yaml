@@ -35,6 +35,18 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            contact@osuny.org
+          value: >-
+            mailto:contact@osuny.org
+      social_networks:
+        github:
+          label: >-
+            osunydev/
+          value: >-
+            https://github.com/osunydev/
 
   taxonomies:
     administrator: administrators
