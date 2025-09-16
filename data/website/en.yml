@@ -1,6 +1,10 @@
 about:
   label: Ecole de test
 default:
+  image:
+    id: cc29386d-8acd-477c-a5f1-0f437b1b626d
+  shared_image:
+    id: e1fc739e-275a-4a0c-a42f-47368accacf3
 contents_reading_time:
   seconds: 0
   text: >-
