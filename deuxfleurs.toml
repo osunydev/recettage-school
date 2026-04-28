@@ -13,3 +13,24 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/en/agenda/ruby-on-rails/index.html"
+to = "/en/agenda/programs/ruby-on-rails/"
+
+[[redirects]]
+from = "/fr/papiers/2022-11-28-vers-linfini-et-au-dela/index.html"
+to = "/fr/papiers/2022-11-28-subverting-green-growth-propaganda-degrowth-autonomous-struggle-and-media/"
+
+[[redirects]]
+from = "/fr/agenda/ruby-on-rails/index.html"
+to = "/fr/agenda/offre-de-formation/ruby-on-rails/"
+
+[[redirects]]
+from = "/fr/agenda/css/index.html"
+to = "/fr/agenda/offre-de-formation/css/"
+
+[[redirects]]
+from = "/en/agenda/css/index.html"
+to = "/en/agenda/programs/css/"
+
