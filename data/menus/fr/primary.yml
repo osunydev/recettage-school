@@ -118,4 +118,13 @@ items:
   descendants_targets: []
   path: "/exhibitions"
   file: content/fr/exhibitions/_index.html
+- title: Vous êtes
+  slug: vous-etes
+  target: "/fr/vous-etes/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/vous-etes"
+  file: content/fr/pages/vous-etes/_index.html
 
