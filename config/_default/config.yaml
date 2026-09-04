@@ -1,3 +1,4 @@
+_merge: deep
 theme: osuny
 pagination:
   pagerSize: 18
